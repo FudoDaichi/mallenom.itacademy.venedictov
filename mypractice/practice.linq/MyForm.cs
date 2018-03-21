@@ -13,13 +13,15 @@ using System.Windows.Forms;
 namespace practice.linq
 {
     /// <summary>/// </summary>
-    public partial class Form1 : Form
+    public partial class MyForm : Form
     {
         /// <summary>/// </summary>
-        public Form1()
+        public MyForm()
         {
             InitializeComponent();
             this.Font = SystemFonts.MessageBoxFont;
+            button1.Image = Image.FromFile("..\\..\\..\\image\\1.png");
+            
         }
         /// <summary>/// </summary>
         protected override void OnLoad(EventArgs e)

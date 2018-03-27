@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("MyFramework")]
+[assembly: AssemblyTitle("venediktov.framework")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("MyFramework")]
+[assembly: AssemblyProduct("venediktov.framework")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("dd6f4062-6e4b-4e4d-8b61-3f938a1685fe")]
+[assembly: Guid("64ca1768-cca1-4a85-b201-90b40434885a")]
 
 // Version information for an assembly consists of the following four values:
 //

@@ -59,7 +59,5 @@ namespace practice.linq.Properties {
                 resourceCulture = value;
             }
         }
-
-       
     }
 }
